@@ -1,2 +1,3 @@
 # hello-world
-repository-extrodinare 
+repository extrodinare 
+I generally have no clue what I'm doing
